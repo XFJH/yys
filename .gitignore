@@ -1,0 +1,4 @@
+# Project exclude paths
+/yys/target/
+.idea
+yys.iml
